@@ -4,7 +4,10 @@ using namespace std;
 #include "Student.h"
 
     void Student:: setName(string _name){
-        name = _name;
+        if(_name.size()>0){
+            this->name = _name;
+        }
+
     }
     void  Student:: setRollNumber(int _rollNumber) {
         if (_rollNumber>0)
