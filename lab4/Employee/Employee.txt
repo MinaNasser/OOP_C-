@@ -1,3 +1,6 @@
 Object destroyed  :2 Name :ahmed Salary :0
 Object destroyed  :0 Name :  Salary :0
 Object destroyed  :1 Name :ali Salary :1000
+Object destroyed  :2 Name :ahmed Salary :0
+Object destroyed  :0 Name :  Salary :0
+Object destroyed  :1 Name :ali Salary :1000

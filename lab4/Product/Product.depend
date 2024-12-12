@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733989901 source:d:\work\freelans work\many projects\ploblem solving\oop\lab4\product\main.cpp
+	<iostream>
+	"Product.h"
+
+1733989772 d:\work\freelans work\many projects\ploblem solving\oop\lab4\product\product.h
+	<iostream>
+
+1733989890 source:d:\work\freelans work\many projects\ploblem solving\oop\lab4\product\product.cpp
+	<iostream>
+	"Product.h"
+

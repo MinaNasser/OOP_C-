@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733991378 source:d:\work\freelans work\many projects\ploblem solving\oop\lab4\inventory\main.cpp
+	<iostream>
+	"Inventory.h"
+
+1733991131 d:\work\freelans work\many projects\ploblem solving\oop\lab4\inventory\inventory.h
+	<iostream>
+
+1733991241 source:d:\work\freelans work\many projects\ploblem solving\oop\lab4\inventory\inventory.cpp
+	<iostream>
+	"Inventory.h"
+
