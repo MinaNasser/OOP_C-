@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733901377 source:d:\work\freelans work\many projects\ploblem solving\oop\lab3\task1\main.cpp
+	<iostream>
+	"person.h"
+
+1733900751 d:\work\freelans work\many projects\ploblem solving\oop\lab3\task1\person.h
+	<iostream>
+
+1733901183 source:d:\work\freelans work\many projects\ploblem solving\oop\lab3\task1\person.cpp
+	<iostream>
+	"person.h"
+

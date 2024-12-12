@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="task1/task1.cbp" />
+		<Project filename="task2/task2.cbp" />
+		<Project filename="rask3/rask3.cbp" />
+		<Project filename="task4/task4.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

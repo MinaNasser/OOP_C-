@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733904952 source:d:\work\freelans work\many projects\ploblem solving\oop\lab3\task4\calculator.cpp
+	"Calculator.h"
+
+1733904952 d:\work\freelans work\many projects\ploblem solving\oop\lab3\task4\calculator.h
+	<iostream>
+

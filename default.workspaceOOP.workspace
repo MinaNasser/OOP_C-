@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="lap 1/task1/task1.cbp" />
+		<Project filename="lap 1/task2/task2.cbp" />
+		<Project filename="lap 1/task6/task6.cbp" />
+		<Project filename="lap 1/DataTypeString/DataTypeString.cbp" />
+		<Project filename="lab2/task1/task1.cbp" />
+		<Project filename="lab3/task1/task1.cbp" />
+		<Project filename="lab3/task2/task2.cbp" />
+		<Project filename="lab3/rask3/rask3.cbp" />
+		<Project filename="lab3/task4/task4.cbp" />
+		<Project filename="lab3/Singlton/Singlton.cbp" />
+		<Project filename="lab3/inline/inline.cbp" />
+		<Project filename="lab4/Employee/Employee.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

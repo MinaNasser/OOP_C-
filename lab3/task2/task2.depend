@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733903387 source:d:\work\freelans work\many projects\ploblem solving\oop\lab3\task2\main.cpp
+	<iostream>
+	"BankAccount.h"
+
+1733903910 d:\work\freelans work\many projects\ploblem solving\oop\lab3\task2\bankaccount.h
+	<iostream>
+
+1733904084 source:d:\work\freelans work\many projects\ploblem solving\oop\lab3\task2\bankaccount.cpp
+	<iostream>
+	"BankAccount.h"
+

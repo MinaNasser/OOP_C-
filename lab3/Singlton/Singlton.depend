@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733909292 source:d:\work\freelans work\many projects\ploblem solving\oop\lab3\singlton\singlton.cpp
+	"Singlton.h"
+
+1733909330 d:\work\freelans work\many projects\ploblem solving\oop\lab3\singlton\singlton.h
+	<iostream>
+
+1733909296 source:d:\work\freelans work\many projects\ploblem solving\oop\lab3\singlton\main.cpp
+	<iostream>
+	"Singlton.h"
+
