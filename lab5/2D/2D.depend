@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734250613 source:d:\work\freelans work\many projects\ploblem solving\oop\lab5\2d\main.cpp
+	<iostream>
+	"Point.h"
+
+1734251088 d:\work\freelans work\many projects\ploblem solving\oop\lab5\2d\point.h
+	<iostream>
+
+1734251110 source:d:\work\freelans work\many projects\ploblem solving\oop\lab5\2d\point.cpp
+	<iostream>
+	"Point.h"
+

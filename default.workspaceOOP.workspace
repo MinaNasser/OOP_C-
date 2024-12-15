@@ -15,5 +15,10 @@
 		<Project filename="lab4/Employee/Employee.cbp" />
 		<Project filename="lab4/Product/Product.cbp" />
 		<Project filename="lab4/Inventory/Inventory.cbp" />
+		<Project filename="lab3/OPject/OPject.cbp" />
+		<Project filename="lab5/Stack/Stack.cbp" />
+		<Project filename="lab5/Student/Student.cbp" />
+		<Project filename="lab5/2D/2D.cbp" />
+		<Project filename="lab5/Bun/Bun.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1734257510 source:d:\work\freelans work\many projects\ploblem solving\oop\lab5\bun\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"student.h"
+	"subject.h"
+
+1734257510 d:\work\freelans work\many projects\ploblem solving\oop\lab5\bun\student.h
+	<iostream>
+	<vector>
+	"Subject.h"
+
+1734257510 d:\work\freelans work\many projects\ploblem solving\oop\lab5\bun\subject.h
+	<iostream>
+	<iostream>
+

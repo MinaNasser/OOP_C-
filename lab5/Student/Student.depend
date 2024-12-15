@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734252756 source:d:\work\freelans work\many projects\ploblem solving\oop\lab5\student\main.cpp
+	<iostream>
+	"Student.h"
+
+1734252908 d:\work\freelans work\many projects\ploblem solving\oop\lab5\student\student.h
+	<iostream>
+
+1734251998 source:d:\work\freelans work\many projects\ploblem solving\oop\lab5\student\student.cpp
+	"Student.h"
+

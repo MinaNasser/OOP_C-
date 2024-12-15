@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734249225 source:d:\work\freelans work\many projects\ploblem solving\oop\lab5\stack\main.cpp
+	<iostream>
+	"Stack.h"
+
+1734249203 d:\work\freelans work\many projects\ploblem solving\oop\lab5\stack\stack.h
+	<iostream>
+
+1734249200 source:d:\work\freelans work\many projects\ploblem solving\oop\lab5\stack\stack.cpp
+
